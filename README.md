@@ -12,6 +12,8 @@
 Building using "xcodebuild -project QuHeart.xcodeproj -configuration Debug -scheme QuHeart -destination id=E7AB60E1-0330-4224-8299-B2E8865CF533 -derivedDataPath build"
 User defaults from command line:
 IDEDerivedDataPathOverride = /Users/cnbs5/RNProject/QuHeart/ios/build
-5.
+
+使用xcode打开项目后可以运行，提示Print: Entry, ":CFBundleIdentifier", Does Not Exist
+5.命令行升级react-native版本，没有什么卵用   react-native-git-upgrade
 ```
 
