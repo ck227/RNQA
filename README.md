@@ -17,6 +17,6 @@ IDEDerivedDataPathOverride = /Users/cnbs5/RNProject/QuHeart/ios/build
 5.命令行升级react-native版本，没有什么卵用   react-native-git-upgrade
 
 6.react-native init ProjectName --version 0.44.2
-使用低版本创建应用，还是不行
+尝试了使用低版本创建应用，配置了xcode,下载rncahce手动放入.rncache目录，还是不行，wtf
 ```
 
