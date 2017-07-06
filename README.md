@@ -15,5 +15,8 @@ IDEDerivedDataPathOverride = /Users/cnbs5/RNProject/QuHeart/ios/build
 
 使用xcode打开项目后可以运行，提示Print: Entry, ":CFBundleIdentifier", Does Not Exist
 5.命令行升级react-native版本，没有什么卵用   react-native-git-upgrade
+
+6.react-native init ProjectName --version 0.44.2
+使用低版本创建应用，还是不行
 ```
 
