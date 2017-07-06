@@ -5,4 +5,7 @@
 Q：Command failed: /usr/libexec/PlistBuddy -c Print:CFBundleIdentifier build/Build/Products/Debug-iphonesimulator/QuHeart.app/Info.plist
 Print: Entry, ":CFBundleIdentifier", Does Not Exist
 
-A：
+A：1.尝试降级react-native 到0.44失败，项目不能运行了
+   2.升级react-native 到0.46，github项目clone下来运行npm install失败
+   3.运行npm cache clean --force
+   
