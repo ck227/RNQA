@@ -8,5 +8,10 @@
 1.尝试降级react-native 到0.44失败，项目不能运行了，删除项目
 2.升级react-native 到0.46，github项目clone下来运行npm install失败
 3.在项目目录运行npm cache clean --force，运行npm install 成功
+4.运行之后卡住
+Building using "xcodebuild -project QuHeart.xcodeproj -configuration Debug -scheme QuHeart -destination id=E7AB60E1-0330-4224-8299-B2E8865CF533 -derivedDataPath build"
+User defaults from command line:
+IDEDerivedDataPathOverride = /Users/cnbs5/RNProject/QuHeart/ios/build
+5.
 ```
 
