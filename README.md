@@ -17,8 +17,10 @@ IDEDerivedDataPathOverride = /Users/cnbs5/RNProject/QuHeart/ios/build
 5.命令行升级react-native版本，没有什么卵用   react-native-git-upgrade
 6.react-native init ProjectName --version 0.44.2
 尝试了使用低版本创建应用，配置了xcode,下载rncahce手动放入.rncache目录，尝试了升级xcode到8.3版本，升级了mac系统，还是不行。。。。
-7.使用create_react-native-app 命令创建，进入项目目录运行yarn start，yarn run ios ，可以运行，放弃之前的运行方式了
+7.使用create_react-native-app 命令创建，进入项目目录运行yarn start，yarn run ios ，可以运行，启动模拟器卡住，放弃了。
 ```
 
 Q：怎么在自己的设备上调试RN项目
+
+还不能直接运行，装了Expo客户端，以后再说
 
