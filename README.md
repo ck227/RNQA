@@ -20,3 +20,5 @@ IDEDerivedDataPathOverride = /Users/cnbs5/RNProject/QuHeart/ios/build
 7.使用create_react-native-app 命令创建，进入项目目录运行yarn start，yarn run ios ，可以运行，放弃之前的运行方式了
 ```
 
+Q：怎么在自己的设备上调试RN项目
+
