@@ -23,9 +23,11 @@ IDEDerivedDataPathOverride = /Users/cnbs5/RNProject/QuHeart/ios/build
 ```
 
 Q：怎么在自己的设备上调试RN项目
-
+```
 还不能直接运行，装了Expo客户端，以后再说
-
 npm update --global yarn 升级yarn
 yarn代替npm install命令，用yarn add 某第三方库名代替npm install --save 某第三方库名
+
+在xcode上运行出来后什么问题都没有，需要设置下项目的签名就可以，搞这么久，我是猪啊
+```
 
