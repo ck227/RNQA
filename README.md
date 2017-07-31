@@ -24,3 +24,6 @@ Q：怎么在自己的设备上调试RN项目
 
 还不能直接运行，装了Expo客户端，以后再说
 
+npm update --global yarn 升级yarn
+yarn代替npm install命令，用yarn add 某第三方库名代替npm install --save 某第三方库名
+
