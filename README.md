@@ -30,4 +30,8 @@ yarn代替npm install命令，用yarn add 某第三方库名代替npm install --
 
 在xcode上运行出来后什么问题都没有，需要设置下项目的签名就可以，搞这么久，我是猪啊
 ```
+Q：Attempt to register RCTBridgeModule class for the name 'SplashScreen',but name was already registered by class RCTSplashScreen
+```
+no answer yet
+```
 
