@@ -34,4 +34,9 @@ Q：Attempt to register RCTBridgeModule class for the name 'SplashScreen',but na
 ```
 no answer yet
 ```
+Q：添加导航器
+`````
+yarn add react-navigation
+``````
+
 
