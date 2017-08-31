@@ -39,4 +39,25 @@ Q：添加导航器
 yarn add react-navigation
 ``````
 
+Last login: Thu Aug 31 08:26:54 on console
+ck:~ cnbs5$ react-native -v
+react-native-cli: 2.0.1
+react-native: 0.44.3
+ck:~ cnbs5$ node -v
+v7.9.0
+ck:~ cnbs5$ npm -v
+4.6.1
+
+
+   ╭─────────────────────────────────────╮
+   │                                     │
+   │   Update available 4.6.1 → 5.3.0    │
+   │     Run npm i -g npm to update      │
+   │                                     │
+   ╰─────────────────────────────────────╯
+
+ck:~ cnbs5$ yarn --version
+0.27.5
+ck:~ cnbs5$ 
+
 
